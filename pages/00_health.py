@@ -121,5 +121,4 @@ if offline_mode:
         mime="text/csv"
     )
 
-st.markdown("---")
-st.caption("© 2025 증상 체커 v5 | 모두를 위한 건강 동반자 플랫폼")자를 위한 건강 도우미 프로젝트")
+
