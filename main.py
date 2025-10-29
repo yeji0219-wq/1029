@@ -1,3 +1,4 @@
+import streamlit as st
 st.title('최예지의 첫번째 앱')
 st.subheader('s')
 st.write('d')
